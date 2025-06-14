@@ -1,0 +1,3 @@
+resource_pooler:
+  model: gemini-2.0-flash
+  

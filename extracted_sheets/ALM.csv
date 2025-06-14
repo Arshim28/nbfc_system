@@ -1,0 +1,215 @@
+Particulars,Unnamed: 1,0 day to 7 days,8 days to 14 days,15 days to 30/31 days (One month),Over one month and upto 2 months,Over two months and upto 3 months,Over 3 months and upto 6 months, Over 6 months and upto 1 year,Over 1 year and upto 3 years,Over 3 years and upto 5 years,Over  5 years ,Total,Unnamed: 13,Unnamed: 14,Unnamed: 15,0 day to 7 days.1,8 days to 14 days.1,15 days to 30/31 days (One month).1
+,,,,,,,,,,,,,,,,,,
+,,X010,X020,X030,X040,X050,X060,X070,X080,X090,X100,X110,,,,X010,X020,X030
+,,,,,,,,,,,,,,,,,,
+A. OUTFLOWS,,,,,,,,,,,,,,,,,,
+1.Capital (i+ii+iii+iv) ,Y010,0,0,0,0,0,0,0,0,0,12733.83,12733.83,,,,0,0,0
+(i) Equity Capital,Y020,0,0,0,0,0,0,0,0,0,12733.83,12733.83,,,,0,0,0
+(ii) Perpetual / Non Redeemable Preference Shares       ,Y030,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iii)) Non-Perpetual / Redeemable Preference Shares,Y040,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iv) Others,Y050,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+2.Reserves & Surplus (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xii+xiii),Y060,0,0,0,0,0,0,0,0,0,46841.21,46841.21,,,,0,0,0
+(i) Share Premium Account,Y070,0,0,0,0,0,0,0,0,0,32222.7,32222.7,,,,0,0,0
+(ii) General Reserves,Y080,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iii) Statutory/Special Reserve (Section 45-IC reserve to be shown separately below item no.(vii)),Y090,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iv) Reserves under Sec 45-IC of RBI Act 1934,Y100,0,0,0,0,0,0,0,0,0,3085.19,3085.19,,,,0,0,0
+(v) Capital Redemption Reserve,Y110,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(vi) Debenture Redemption Reserve,Y120,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(vii) Other Capital Reserves,Y130,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(viii) Other Revenue Reserves,Y140,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(ix) Investment Fluctuation Reserves/ Investment Reserves,Y150,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(x) Revaluation Reserves (a+b),Y160,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+          (a) Revl. Reserves - Property,Y170,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+          (b) Revl. Reserves - Financial Assets,Y180,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(xi) Share Application Money Pending Allotment,Y190,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(xii) Others (Please mention),Y200,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(xiii) Balance of profit and loss account,Y210,0,0,0,0,0,0,0,0,0,11533.32,11533.32,,,,0,0,0
+"3.Gifts, Grants, Donations & Benefactions",Y220,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+4.Bonds & Notes (i+ii+iii),Y230,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(i) Plain Vanilla Bonds (As per residual maturity of the instruments),Y240,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(ii) Bonds with embedded call / put options including zero coupon / deep discount bonds ( As per residual period for the earliest exercise date for the embedded option),Y250,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iii) Fixed Rate Notes,Y260,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+5.Deposits (i+ii),Y270,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(i) Term Deposits from Public ,Y280,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(ii) Others,Y290,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+6.Borrowings (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv),Y300,2445.0225377940933,3728.990527338535,4400.199873654829,16693.44500306027,9482.769847984473,36412.850415258465,51719.731281103144,69476.74051380617,0,0,194359.75,,,,1169.883033691308,4081.7184365484513,4596.228436548451
+(i) Bank Borrowings (a+b+c+d+e+f),Y310,1143.6225377940932,294.30253779409327,1708.1025377940932,3212.996698497836,3162.4524498376036,9877.662537794093,16064.365075588183,14906.765624900005,0,0,50370.27,,,100000.0,659.4034164888878,-18.206583511112115,1182.6634164888878
+"a) Bank Borrowings in the nature of Term Money Borrowings 
+(As per residual maturity)",Y320,1143.6225377940932,294.30253779409327,1708.1025377940932,3212.996698497836,3162.4524498376036,9877.662537794093,16064.365075588183,14906.765624900005,0,0,50370.27,,,,659.4034164888878,-18.206583511112115,1182.6634164888878
+b) Bank Borrowings in the nature of WCDL,Y330,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"c) Bank Borrowings in the nature of Cash Credit (CC)
+",Y340,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+d) Bank Borrowings in the nature of Letter of Credit (LCs),Y350,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+e) Bank Borrowings in the nature of ECBs,Y360,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+f) Other bank borrowings,Y370,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"(ii) Inter Corporate Deposits (Other than Related Parties) 
+(These being institutional / wholesale deposits, shall be slotted as per their residual maturity)",Y380,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iii) Loans from Related Parties (including ICDs),Y390,0,0,0,0,0,3500,0,0,0,0,3500,,,,0,0,0
+(iv) Corporate Debts,Y400,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(v) Borrowings from Central Government / State Government,Y410,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(vi) Borrowings from RBI ,Y420,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(vii) Borrowings from Public Sector Undertakings (PSUs),Y430,0,0,0,0,0,0,0,0,0,0,0,,,100000.0,0,0,0
+(viii) Borrowings from Others (Please specify),Y440,1301.4,1668.52644215833,1866.2673358607358,6053.45342384299,5800.822517427425,15274.203235306039,22633.396921198295,18540.310124206186,0,0,73138.38,,,,510.47961720242006,1945.3296172024202,2391.46961720242
+(ix) Commercial Papers (CPs),Y450,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+     Of which; (a) To Mutual Funds,Y460,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                      (b) To Banks,Y470,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                      (c) To NBFCs,Y480,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                      (d) To Insurance Companies,Y490,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                      (e) To Pension Funds,Y500,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                      (f) To Others (Please specify),Y510,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(x) Non - Convertible Debentures (NCDs) (A+B),Y520,0,1766.1615473861118,825.83,7426.994880719446,519.4948807194451,7760.984642158336,13021.969284316667,36029.66476469999,0,0,67351.1,,,,0,2154.595402857143,1022.0954028571432
+A. Secured (a+b+c+d+e+f+g),Y530,0,1766.1615473861118,825.83,7426.994880719446,519.4948807194451,7760.984642158336,13021.969284316667,36029.66476469999,0,0,67351.1,,,100000.0,0,2154.595402857143,1022.0954028571432
+     Of which;  (a) Subscribed by Retail Investors,Y540,0,1766.1615473861118,825.83,7426.994880719446,519.4948807194451,7760.984642158336,13021.969284316667,36029.66476469999,0,0,67351.1,,,,0,2154.595402857143,1022.0954028571432
+                     (b) Subscribed by Banks,Y550,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (c) Subscribed by NBFCs,Y560,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (d) Subscribed by Mutual Funds,Y570,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (e) Subscribed by Insurance Companies,Y580,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (f) Subscribed by Pension Funds,Y590,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (g) Others (Please specify),Y600,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+B. Un-Secured (a+b+c+d+e+f+g),Y610,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+     Of which;  (a) Subscribed by Retail Investors,Y620,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (b) Subscribed by Banks,Y630,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (c) Subscribed by NBFCs,Y640,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (d) Subscribed by Mutual Funds,Y650,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (e) Subscribed by Insurance Companies,Y660,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (f) Subscribed by Pension Funds,Y670,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (g) Others (Please specify),Y680,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"(xi) Convertible Debentures (A+B)
+(Debentures with embedded call / put options 
+As per residual period for the earliest exercise date for the embedded option)",Y690,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+A. Secured (a+b+c+d+e+f+g),Y700,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+     Of which;  (a) Subscribed by Retail Investors,Y710,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (b) Subscribed by Banks,Y720,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (c) Subscribed by NBFCs,Y730,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (d) Subscribed by Mutual Funds,Y740,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (e) Subscribed by Insurance Companies,Y750,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (f) Subscribed by Pension Funds,Y760,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (g) Others (Please specify),Y770,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+B. Un-Secured (a+b+c+d+e+f+g),Y780,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+     Of which;  (a) Subscribed by Retail Investors,Y790,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (b) Subscribed by Banks,Y800,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (c) Subscribed by NBFCs,Y810,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (d) Subscribed by Mutual Funds,Y820,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (e) Subscribed by Insurance Companies,Y830,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (f) Subscribed by Pension Funds,Y840,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+                     (g) Others (Please specify),Y850,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(xii) Subordinate Debt,Y860,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(xiii) Perpetual Debt Instrument,Y870,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(xiv) Security Finance Transactions(a+b+c+d),Y880,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"a) Repo
+(As per residual maturity)",Y890,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"b) Reverse Repo
+(As per residual maturity)",Y900,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"c) CBLO
+(As per residual maturity)",Y910,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+d) Others (Please Specify) ,Y920,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+7.Current Liabilities & Provisions (a+b+c+d+e+f+g+h),Y930,1466.81,0,184.14,0,0,80.56,0,0,0,4499.05,6230.5599999999995,,,,958.81,0,122.57
+a) Sundry creditors,Y940,0,0,184.14,0,0,0,0,0,0,0,184.14,,,,0,0,122.57
+b) Expenses payable (Other than Interest),Y950,1466.81,0,0,0,0,0,0,0,0,4435.04,5901.85,,,,958.81,0,0
+(c) Advance income received from borrowers pending adjustment,Y960,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(d) Interest  payable on deposits and borrowings,Y970,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(e) Provisions for Standard Assets,Y980,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(f) Provisions for Non Performing Assets (NPAs),Y990,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(g) Provisions for Investment Portfolio (NPI),Y1000,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(h) Other Provisions (Please Specify),Y1010,0,0,0,0,0,80.56,0,0,0,64.01,144.57,,,,0,0,0
+8.Statutory Dues ,Y1020,2.61,13.51,209.23,0,0,0,0,0,0,0,225.35,,,,73.2,0,0
+9.Unclaimed Deposits (i+ii),Y1030,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(i) Pending for less than 7 years,Y1040,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(ii) Pending for greater than 7 years,Y1050,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+10.Any Other Unclaimed Amount,Y1060,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+11.Debt Service Realisation Account,Y1070,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+12.Other Outflows ,Y1080,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+13.Outflows On Account of Off Balance Sheet (OBS) Exposure (i+ii+iii+iv+v+vi+vii),Y1090,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(i)Loan commitments pending disbursal,Y1100,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(ii)Lines of credit committed to other institution,Y1110,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iii)Total Letter of Credits,Y1120,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iv)Total Guarantees,Y1130,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(v) Bills discounted/rediscounted,Y1140,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(vi)Total Derivative Exposures (a+b+c+d+e+f+g+h),Y1150,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(a) Forward Forex Contracts,Y1160,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(b) Futures Contracts ,Y1170,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(c) Options Contracts ,Y1180,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(d) Forward Rate Agreements,Y1190,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(e) Swaps - Currency,Y1200,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(f) Swaps - Interest Rate ,Y1210,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(g) Credit Default Swaps,Y1220,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(h) Other Derivatives,Y1230,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(vii)Others,Y1240,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"A. TOTAL OUTFLOWS (A)
+(Sum of 1 to 13)",Y1250,3914.4425377940934,3742.500527338535,4793.569873654829,16693.44500306027,9482.769847984473,36493.41041525846,51719.731281103144,69476.74051380617,0,64074.090000000004,260390.7,,,,2201.8930336913077,4081.7184365484513,4718.798436548451
+A1. Cumulative Outflows,Y1260,3914.4425377940934,7656.943065132628,12450.512938787459,29143.95794184773,38626.727789832206,75120.13820509067,126839.86948619381,196316.61,196316.61,260390.69999999998,260390.69999999998,,,,2201.8930336913077,6283.611470239759,11002.409906788209
+B. INFLOWS,,,,,,,,,,,,,,,,,,
+1. Cash (In 1 to 30/31 day time-bucket),Y1270,545.35,0,0,0,0,0,0,0,0,0,545.35,,,,388.48,0,0
+2. Remittance in Transit,Y1280,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+3. Balances With Banks,Y1290,8934.99,0,0,0,0,0,0,3191.36,0,0.57,12126.92,,,,8993.14,0,0
+"a) Current Account
+(The stipulated minimum balance be shown in 6 months to 1 year bucket. The balance in excess of the minim balance be shown in 1 to 30 day time bucket)",Y1300,8929.9,0,0,0,0,0,0,0,0,0.57,8930.47,,,,8988.09,0,0
+"b) Deposit Accounts /Short-Term Deposits 
+(As per residual maturity)",Y1310,5.09,0,0,0,0,0,0,3191.36,0,0,3196.4500000000003,,,,5.05,0,0
+4.Investments  (i+ii+iii+iv+v),Y1320,0,0,0,0,0,0,0,0,0,1221.24745,1221.24745,,,,11725.23,0,0
+(i)Statutory Investments (only for NBFCs-D),Y1330,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(ii) Listed Investments,Y1340,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+    (a) Current,Y1350,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+    (b) Non-current,Y1360,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iii) Unlisted Investments,Y1370,0,0,0,0,0,0,0,0,0,1221.24745,1221.24745,,,,11725.23,0,0
+    (a) Current,Y1380,0,0,0,0,0,0,0,0,0,0,0,,,,11725.23,0,0
+    (b) Non-current,Y1390,0,0,0,0,0,0,0,0,0,1221.24745,1221.24745,,,,0,0,0
+(iv) Venture Capital Units,Y1400,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(v) Others (Please Specify),Y1410,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+5.Advances (Performing),Y1420,12113.608524778288,4153.785730900001,0,37571.3723854,10315.193441200001,94874.50338536,56810.9975616,9045.264538800002,5161.685357481612,5560.73907448009,235607.15,,,,22464.31991476712,0,0
+"(i) Bills of Exchange and Promissory Notes discounted & rediscounted
+(As per residual usance of the underlying bills)",Y1430,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"(ii) Term Loans
+(The cash inflows on account of the interest and principal of the loan may be slotted in respective time buckets as per the timing of the cash flows as stipulated in the original / revised repayment schedule)",Y1440,12113.608524778288,4153.785730900001,0,37571.3723854,10315.193441200001,94874.50338536,56810.9975616,9045.264538800002,5161.685357481612,5560.73907448009,235607.15,,100000.0,,22464.31991476712,0,0
+        (a) Through Regular Payment Schedule,Y1450,12113.608524778288,4153.785730900001,0,37571.3723854,10315.193441200001,94874.50338536,56810.9975616,9045.264538800002,5161.685357481612,5560.73907448009,235607.15,,235607.15,,22464.31991476712,0,0
+        (b) Through Bullet Payment,Y1460,0,0,0,0,0,0,0,0,0,0,0,,0.0,,0,0,0
+(iii) Interest to be serviced through regular schedule,Y1470,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iv)  Interest to be serviced to be in Bullet Payment,Y1480,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+6.Gross Non-Performing Loans (GNPA),Y1490,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(i) Substandard,Y1500,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"(a) All over dues and instalments of principal falling due during the next three years
+(In the 3 to 5 year time-bucket)",Y1510,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"(b) Entire principal amount due beyond the next three years
+(In the over 5 years time-bucket)",Y1520,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(ii) Doubtful and loss,Y1530,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"(a) All instalments of principal falling due during the next five years as also all over dues
+(In the over 5 years time-bucket)",Y1540,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"(b) Entire principal amount due beyond the next five years
+(In the over 5 years time-bucket)",Y1550,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+7. Inflows From Assets On Lease,Y1560,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+8. Fixed Assets (Excluding Assets On Lease),Y1570,0,0,0,0,0,0,0,0,0,3443.39,3443.39,,,,0,0,0
+9. Other Assets :,Y1580,5.16,0,0,380.52,182.07,845.9,478.11,131.17,0,5423.71,7446.64,,,,0,12.58,858.79
+"(a) Intangible assets & other non-cash flow items 
+(In the 'Over 5 year time bucket)",Y1590,0,0,0,0,0,0,0,0,0,5089.74,5089.74,,,,0,0,0
+"(b) Other items (e.g. accrued income,
+other receivables, staff loans, etc.)
+(In respective maturity buckets as per the timing of the cash flows)",Y1600,5.16,0,0,380.52,182.07,845.9,478.11,131.17,0,333.97,2356.9000000000005,,,,0,12.58,858.79
+(c) Others,Y1610,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+10.Security Finance Transactions (a+b+c+d),Y1620,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"a) Repo
+(As per residual maturity)",Y1630,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"b) Reverse Repo
+(As per residual maturity)",Y1640,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"c) CBLO
+(As per residual maturity)",Y1650,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+d) Others (Please Specify) ,Y1660,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+11.Inflows On Account of Off Balance Sheet (OBS) Exposure (i+ii+iii+iv+v),Y1670,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(i)Loan committed by other institution pending disbursal,Y1680,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(ii)Lines of credit committed by other institution,Y1690,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iii) Bills discounted/rediscounted,Y1700,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(iv)Total Derivative Exposures (a+b+c+d+e+f+g+h),Y1710,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(a) Forward Forex Contracts,Y1720,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(b) Futures Contracts ,Y1730,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(c) Options Contracts ,Y1740,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(d) Forward Rate Agreements,Y1750,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(e) Swaps - Currency,Y1760,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(f) Swaps - Interest Rate ,Y1770,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(g) Credit Default Swaps,Y1780,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(h) Other Derivatives,Y1790,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+(v)Others,Y1800,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,0
+"B. TOTAL INFLOWS (B)
+(Sum of 1 to 11)",Y1810,21599.108524778287,4153.785730900001,0,37951.892385399995,10497.2634412,95720.40338536,57289.1075616,12367.794538800003,5161.685357481612,15649.656524480088,260390.69745000004,,,,43571.16991476712,12.58,858.79
+C. Mismatch (B - A),Y1820,17684.665986984193,411.285203561466,-4793.569873654829,21258.447382339724,1014.4935932155277,59226.992970101535,5569.376280496857,-57108.94597500617,5161.685357481612,-48424.433475519916,-0.0025499999755993485,,,,41369.276881075806,-4069.1384365484514,-3860.008436548451
+D. Cumulative Mismatch,Y1830,17684.665986984193,18095.95119054566,13302.381316890831,34560.82869923055,35575.32229244608,94802.3152625476,100371.69154304446,43262.74556803829,48424.430925519904,-0.0025500000119791366,-0.0025500000119791366,,,,41369.276881075806,37300.13844452736,33440.13000797891
+E. Mismatch as % of Total Outflows ,Y1840,4.5178,0.1099,-1,1.2735,0.107,1.623,0.1077,-0.822,0,-0.7558,0,,,,18.7881,-0.9969,-0.818
+F. Cumulative Mismatch as % of Cumulative Total Outflows,Y1850,4.5178,2.3633,1.0684,1.1859,0.921,1.262,0.7913,0.2204,0.2467,0,0,,,,18.7881,5.9361,3.0393
