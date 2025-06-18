@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
-model_id = 'gemini-2.5-flash-preview-05-20'
+model_id = 'gemini-2.5-flash-lite-preview-06-17'
 search_tool = Tool(
     google_search = GoogleSearch()
 )

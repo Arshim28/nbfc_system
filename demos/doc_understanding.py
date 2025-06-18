@@ -29,7 +29,7 @@ def select_file(files):
             pass
         print("Invalid selection. Try again.")
 
-def get_or_create_cache(file_path, model="gemini-2.5-flash-preview-05-20"):
+def get_or_create_cache(file_path, model="gemini-2.5-flash-lite-preview-06-17"):
     cache_name = f"cache_{os.path.basename(file_path)}"
     for cache in client.caches.list():
         if getattr(cache, "display_name", None) == cache_name:
@@ -48,7 +48,7 @@ def get_or_create_cache(file_path, model="gemini-2.5-flash-preview-05-20"):
     print(f"Created cache: {cache.name}")
     return cache
 
-def ask_question(cache, model="gemini-2.5-flash-preview-05-20"):
+def ask_question(cache, model="gemini-2.5-flash-lite-preview-06-17"):
     while True:
         question = input("Ask a question about the document (or 'exit' to quit): ")
         if question.strip().lower() == 'exit':
